@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
+
+.top{
+    margin-right: 2fr;
+    display: inline-block;
+    color: white;
+}
+
+.Gmail{
+    text-decoration: none;
+}
+
+.search{
+    display: grid;
+    grid-template-columns: 2fr 100px 100px;
+}
+
+button{
+    display: inline;
+    align-items: center;
+    object-fit: cover;
+}
